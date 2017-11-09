@@ -14,9 +14,6 @@
 
 [GitHub源码](https://github.com/bxm0927/canvas-special) 、 [Demo演示](https://bxm0927.github.io/canvas-special/evan-you/index.html)
 
-<div  align="center">
-  <img src="http://oph264zoo.bkt.clouddn.com/17-8-13/13451038.jpg">
-</div>
 
 ### 2. 知乎登录注册页动态离子背景效果
 
